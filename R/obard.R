@@ -1,8 +1,10 @@
 #' Open British Arboricultural Record Dataset (OpenBARD)
 #'
-#' OpenBARD are tree data used in the production of Fennell, Joseph. (2024). Handbook of UK Urban Tree Allometric Equations and Size Characteristics (Version 1.4). (doi:10.13140/RG.2.2.28745.04961.)[doi:10.13140/RG.2.2.28745.04961.]
+#' OpenBARD are tree data used in the production of Fennell, Joseph. (2024).
+#' Handbook of UK Urban Tree Allometric Equations and Size Characteristics
+#' (Version 1.4). doi:10.13140/RG.2.2.28745.04961.
 #'
-#' The data can be found on (Zenodo)[https://zenodo.org/records/15593688].
+#' The data can be found on Zenodo: https://zenodo.org/records/15593688
 #'
 #' Estimates for the maximum sizes of amenity (and other, non-forestry) trees
 #' are important for urban planning and tree management. This report presents
