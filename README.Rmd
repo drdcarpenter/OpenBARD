@@ -36,8 +36,8 @@ remotes::install_git("https://codeberg.org/drdcarpenter/OpenBARD.git")
 
 The OpenBARD package provides the data in a convenient format for R users.
 
-```{r example, eval=FALSE}
+```{r example}
 library(OpenBARD)
-## basic example code
+head(obard)
 ```
 
