@@ -1,0 +1,31 @@
+Column Name,Description,Data Type,Units,Options,Example Value
+record_id,UUID for this specific record,String,,,
+n_stems,Number of stems,Integer,count,,2
+stem_diameter_1_cm,Diameter (DBH) of first stem,Float,centimetre,,34
+stem_diameter_2_cm,Diameter (DBH) of second stem,Float,centimetre,,28.5
+stem_diameter_3_cm,Diameter (DBH) of third stem,Float,centimetre,,
+stem_diameter_4_cm,Diameter (DBH) of fourth stem,Float,centimetre,,
+stem_diameter_5_cm,Diameter (DBH) of fifth stem,Float,centimetre,,
+height_m,Height of tree,Float,metre,,17
+life_stage,Tree life stage,String,,young; semi_mature; mature; late_mature; ancient; dead,mature
+physiological_condition,Tree health condition,String,,good; fair; poor; dead,good
+classification,Environment/site classification,String,,suburban; urban; rural,urban
+county,County or administrative region,String,,,somerset
+latin_name_clean,Latin species name,String,,,quercus robur
+common_name_clean,Common name (NOTE: treat with caution),String,,,english oak
+generic_name_clean,Generic name (NOTE: treat with caution),String,,,oak
+genus,Genus of the tree,String,,,quercus
+species,Species (epithet),String,,,robur
+combined_stem_diameter_cm,Combined stem diameter (basal area equivalent diameter),Float,centimetre,,44.4
+is_multistem,Whether the tree has multiple stems,Bool,,True; False,TRUE
+crown_radius_n_m,Crown radius to the north,Float,metre,,2.1
+crown_radius_s_m,Crown radius to the south,Float,metre,,2.3
+crown_radius_e_m,Crown radius to the east,Float,metre,,1.9
+crown_radius_w_m,Crown radius to the west,Float,metre,,2.5
+crown_radius_se_m,Crown radius to the southeast,Float,metre,,
+crown_radius_nw_m,Crown radius to the northwest,Float,metre,,
+crown_radius_ne_m,Crown radius to the northeast,Float,metre,,
+crown_radius_sw_m,Crown radius to the southwest,Float,metre,,
+crown_radius_minimum_bounding_circle,Radius of the minimum bounding circle,Float,metre,,2.2
+crown_radius_maximum,Maximum crown radius across all directions,Float,metre,,2.5
+data_contributor_id,Identifier for data contributor,String,,,C7
