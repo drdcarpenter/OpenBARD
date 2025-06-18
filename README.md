@@ -8,8 +8,7 @@
 
 OpenBARD are tree data used in the production of Fennell, Joseph.
 (2024). Handbook of UK Urban Tree Allometric Equations and Size
-Characteristics (Version 1.4).
-[doi.org/10.13140/RG.2.2.28745.04961](doi.org/10.13140/RG.2.2.28745.04961)
+Characteristics (Version 1.4). <doi:10.13140/RG.2.2.28745.04961>
 
 The data can be found on [Zenodo](https://zenodo.org/records/15593688).
 
