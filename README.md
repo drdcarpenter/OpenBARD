@@ -9,10 +9,9 @@
 OpenBARD are tree data used in the production of Fennell, Joseph.
 (2024). Handbook of UK Urban Tree Allometric Equations and Size
 Characteristics (Version 1.4).
-(<doi:10.13140/RG.2.2.28745.04961>.)\[<doi:10.13140/RG.2.2.28745.04961>.\]
+[doi.org/10.13140/RG.2.2.28745.04961](doi.org/10.13140/RG.2.2.28745.04961)
 
-The data can be found on
-(Zenodo)\[<https://zenodo.org/records/15593688>\].
+The data can be found on [Zenodo](https://zenodo.org/records/15593688).
 
 Estimates for the maximum sizes of amenity (and other, non-forestry)
 trees are important for urban planning and tree management. This report
@@ -36,6 +35,12 @@ height and root protection radius for UK amenity tree species and genera
 allometric equations.
 
 ## Installation
+
+Install OpenBARD from CRAN:
+
+``` r
+install.packages("OpenBARD")
+```
 
 You can install the development version of OpenBARD from Codeberg:
 
@@ -108,3 +113,15 @@ head(obard)
 #> 5                                  7.0                    7                  C1
 #> 6                                  7.0                    7                  C1
 ```
+
+## Bugs
+
+If you encounter a bug, please file an issue with a minimal reproducible
+example on
+[Codeberg](https://codeberg.org/drdcarpenter/OpenBARD/issues).
+
+## Code of Conduct
+
+This project is released subject to a [Contributor Code of
+Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
+By participating in the project you agree to bide by its terms.
