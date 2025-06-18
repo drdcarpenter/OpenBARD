@@ -76,4 +76,12 @@ genera
 (3) Plots to show these values
 (4) Coefficients for single-parameter allometric equations.
 }
+\examples{
+# Load full data set
+data(obard)
+
+# View summary
+str(obard)
+
+}
 \keyword{datasets}

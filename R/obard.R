@@ -64,4 +64,13 @@
 #' }
 #'
 #' @source <https://zenodo.org/records/15593688>
+#'
+#' @examples
+#' # Load full data set
+#' data(obard)
+#'
+#' # View summary
+#' str(obard)
+#'
+
 "obard"
