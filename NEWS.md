@@ -1,3 +1,3 @@
 # OpenBARD (development version)
 
-* Initial CRAN submission.
+* 2025-06-18: Initial CRAN submission.
