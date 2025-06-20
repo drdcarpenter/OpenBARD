@@ -1,6 +1,12 @@
+## Resubmission
+
+This is a resubmission. In this resubmission I have:
+
+* added a version number to the NEWS.md
+
 ## R CMD check results
 
-0 errors | 0 warnings | 2 notes
+0 errors | 0 warnings | 1 note
 
 ## Release Commentary
 - This is a new release
