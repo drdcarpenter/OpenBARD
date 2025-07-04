@@ -9,7 +9,7 @@ Description: Data used in compiling the Handbook of UK Urban
   for UK urban trees. For more details see Fennell (2024) Handbook of UK
   Urban Tree Allometric Equations and Size Characteristics (Version 1.4). 
   <doi:10.13140/RG.2.2.28745.04961>.
-URL: https://codeberg.org/drdcarpenter/OpenBARD
+URL: https://codeberg.org/drdcarpenter/OpenBARD, https://OpenBARD.dan-carpenter.co.uk
 BugReports: https://codeberg.org/drdcarpenter/OpenBARD/issues
 License: GPL-3
 Encoding: UTF-8

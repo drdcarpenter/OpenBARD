@@ -1,0 +1,8 @@
+pandoc: 2.19.2
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles: {}
+last_built: 2025-07-04T09:36Z
+urls:
+  reference: https://OpenBARD.dan-carpenter.co.uk/reference
+  article: https://OpenBARD.dan-carpenter.co.uk/articles
